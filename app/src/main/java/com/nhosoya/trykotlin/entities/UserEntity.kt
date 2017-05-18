@@ -1,5 +1,3 @@
 package com.nhosoya.trykotlin.entities
 
-/**
- * Created by hosoya on 2017/05/18.
- */
+data class UserEntity(val name: String, val age: Int)
